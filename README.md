@@ -32,6 +32,7 @@ Demo implementations are available in the [`examples/`](./examples/) directory f
 - [x] Hyperdrive (Postgres/MySQL)
 - [x] KV
 - [x] R2
+- [ ] Cloudflare Email
 - [ ] Cloudflare Images
 - [ ] Durable Objects
 - [ ] D1 Multi-Tenancy
